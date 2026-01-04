@@ -1,6 +1,6 @@
-### [ACTION REQUIRED] Your GitHub account, cyclaero, will soon require 2FA
-Here is the deal: https://obsigna.com/articles/1693258424.html
-
+## Note on maintainership
+I have sadly received word about Dr. Rolf Jansen's passing.
+I will try to pick up the mantle and keep void-zones-tools operational.
  
 ## void-zones-tools for FreeBSD
 ### Prepare a list of void zones that can be readily fed into *Unbound*.
